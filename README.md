@@ -4,16 +4,16 @@
 # HacktoberFest21
 
 Hello Hackers! 
-HacktoberFest has begun again for year 2021, and everyone's excited to get started!
+HacktoberFest has begun again for year 2021, and everyone is excited to take part!
 
 
 ### What is Hacktoberfest?
-Hacktoberfest is a month-long global celebration of open source software run by DigitalOcean in partnership with Intel, AppWrite, and DeepSource, with a strong focus on encouraging contributions to open source projects.
+Hacktoberfest is a month-long global celebration for open source software run by DigitalOcean in partnership with Intel, AppWrite, and DeepSource, with a strong focus on encouraging contributions to open source projects.
 
 ### How do I get started?
-1. Visit the official HactoberFest website [here](https://hacktoberfest.digitalocean.com/)
+1. Visit the official Hactober Fest website [here](https://hacktoberfest.digitalocean.com/)
 2. Click on the 'Start Hacking' Button.
-3. Login using your Github/ Gitlab account. It is crucial that you have a Github or Gitlab account to take part in Hactoberfest.
+3. Login using your Github/ Gitlab account. It is necessary that you have a Github or Gitlab account to take part in Hactoberfest.
 4. And you're all set!
 
 ### What do I do next?
